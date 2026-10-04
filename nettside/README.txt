@@ -1,11 +1,8 @@
-ELDREHJELPERNE – HTML WEBSITE
+ELDREHJELPERNE UB – NETTSIDE V2
 
-Open index.html in a browser. No installation or build step is needed.
-om-oss.html is the second page. All images and fonts are stored locally.
+Start prosjektets lokale webserver med npm start fra hovedmappen.
+Åpne http://127.0.0.1:4173 i nettleseren.
 
-Source: Figma file QJboJFkRqcPZ9O8tL1XrEd, Hovedside (31:3) and Om oss (53:2).
-Desktop layouts follow the supplied frames; mobile layouts stack content for readability.
-Navigation, section links, telephone and email links work. Bestill leads to the contact section.
-
-Before publishing: replace the three Lorem ipsum biographies copied from the design and confirm the team names, roles, contact information and free-first-hour offer are still current.
-This is a static website. There is no booking backend and nothing has been published.
+Den nye versjonen bruker originale bilder, fonter og Figma-farger.
+Forespørselsskjemaet er en demo og sender ingen opplysninger.
+Se README.md, BRAND.md, VERIFICATION.md og PLAN.docx i hovedmappen.
